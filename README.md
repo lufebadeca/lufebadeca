@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Lufebadeca
+### 👋 Hi, I’m @Lufebadeca
 
 - 🔭 I’m currently working on creating an IoT platform for setting up and managing your own IoT implementations.
 - 👀 Interested in natural sciences, IoT and programming, recently obtained React certifications from Meta.
