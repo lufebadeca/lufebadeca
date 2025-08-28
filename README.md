@@ -3,13 +3,13 @@
 </div>
 
 <h3 align="center">
-  Hi, Hi, I’m @Lufebadeca
+  Hi, I’m @Lufebadeca
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Physicist%20and%20Software%20Developer;AI%20%26%20ML%20Enthusiast;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20👀;Let’s%20collaborate!%20💬&center=true&width=440&height=45&font=Fira%20Code">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Mechanical%20Engineer%20and%20Software%20Developer;AI%20%26%20ML%20Enthusiast;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20👀;Let’s%20collaborate!%20💬&center=true&width=440&height=45&font=Fira%20Code">
   </a>
 </p>
 
