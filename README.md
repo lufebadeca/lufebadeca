@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Mech.%20Engineer%20and%20Software%20Developer;AI%20%26%20IoT%20Enthusiast;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20👀;Let’s%20collaborate!%20💬&center=true&width=440&height=45&font=Fira%20Code">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer%20and%20Mech.%20Engineer;AI%20%26%20IoT%20Enthusiast;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20👀;Let’s%20collaborate!%20💬&center=true&width=440&height=45&font=Fira%20Code">
   </a>
 </p>
 
@@ -34,9 +34,9 @@
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🖥️ Frameworks & Libraries
 
