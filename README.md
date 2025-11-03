@@ -43,24 +43,19 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Heroicons](https://img.shields.io/badge/Heroicons-0A0A0A?style=for-the-badge&logo=heroicons&logoColor=white)
 ![Lucide React](https://img.shields.io/badge/Lucide_React-000000?style=for-the-badge&logo=lucide&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
-![python-jose](https://img.shields.io/badge/python--jose-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![python-multipart](https://img.shields.io/badge/python--multipart-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![hashlib](https://img.shields.io/badge/hashlib-5A5A5A?style=for-the-badge&logo=python&logoColor=white)
 ![requests](https://img.shields.io/badge/Requests-008080?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-#### 🧠 Data Science 
+#### 🧠 Data Science (in progress)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=blue)
 
 ### 🤖 IA y Procesamiento de Lenguaje
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 
 #### ☁️ Cloud & DevOps
@@ -119,5 +114,5 @@
 
 ---
 
-Credit: [lufebadeca](https://github.com/Jsgallardo82)  
-Last Edited on: 27/08/2025
+Credit: [lufebadeca](https://github.com/lufebadeca)  
+Last Edited on: 03/11/2025
