@@ -21,7 +21,7 @@
 
 ---
 
-#### Passionate about building tech solutions that connect the digital and physical worlds. Currently focused on web development, automation, and interactive tools. Always learning, always sharing.
+#### Passionate about building tech solutions that connect the digital and physical worlds. Currently focused on web development, automation, and interactive tools. Always learning, always sharing. Check my portfolio at: https://dev-lufebadeca.vercel.app/
 
 - 🔧 My stack: React, NextJS, Tailwind, MongoDB. 
 - 🔭 I’m currently working on creating an IoT platform for setting up and managing your own IoT implementations.
